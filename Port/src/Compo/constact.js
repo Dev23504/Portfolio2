@@ -75,7 +75,7 @@ export const data = [
     name: "Portfolio",
     image: WorkImg9,
    
-    live: "https://virtual-assistant-alexa.netlify.app/",
+    live: "https://devrajsingh-portfolio1.netlify.app/",
   },
  ];
  
